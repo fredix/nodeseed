@@ -15,3 +15,5 @@
 nodeseed
 nodeseed.pro.user*
 ui_mainwindow.h
+Makefile
+moc*
